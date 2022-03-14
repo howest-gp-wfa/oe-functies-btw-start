@@ -1,9 +1,10 @@
 "use strict";
 
-window.addEventListener('load', Initialize);
+//declare globals
 
-function Initialize()
-{
+window.addEventListener('load', initialize);
+
+function initialize() {
   
 }
 
